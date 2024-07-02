@@ -1,0 +1,7 @@
+
+train: /kaggle/input/drowsiness-detection-for-yolov8/train/images
+val: /kaggle/input/drowsiness-detection-for-yolov8/valid/images
+test: /kaggle/input/drowsiness-detection-for-yolov8/test/images
+
+nc: 3
+names: ["Drowsiness", "awake", "yawn"]
