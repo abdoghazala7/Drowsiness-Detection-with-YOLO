@@ -1,7 +1,7 @@
 # Drowsiness-Detection-yolov10 
 
 This repository contains code for training a YOLOv10 model for detecting drowsiness in images and videos. The model is trained using the COCO dataset with custom annotations for drowsiness, awake, and yawn classes.
-
+The size of dataset is 15000 images.
 # Project Structure
 ### /data.yaml: Configuration file specifying paths to training, validation, and test datasets along with class names and number of classes.
 ### /weights/: Directory to store pretrained and trained model weights.
